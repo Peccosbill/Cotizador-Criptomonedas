@@ -1,8 +1,36 @@
+# Cotizador de Criptomonedas
+
+Es una Single Page donde podemos calcular el precio de diferentes Criptomonedas en diferentes tipos de monedas (Dolar, Euro, Peso Mexicano, Libra).
+Los datos son traidos desde la API de *CryptoCompare*.
+
+## Lenguajes y herramientas que se utilizaron
+
+♦ JavaScript
+
+♦ React
+
+♦ Axios
+
+♦ Emotion.js
+
+♦ Animate.css
+
+### ♣ *Qué aprendí?* 
+Aprendí a crear Custom Hooks y a crear estilos con Emotion.js
+
+### Espero que les guste y les resulte útil ♥
+
+## Una captura de la Aplicación Web
+
+![image](https://user-images.githubusercontent.com/91910994/150363529-48960ff4-7bc4-4946-9d37-693bea19cea4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+### First `npm install`
 
 In the project directory, you can run:
 
